@@ -1,1 +1,1 @@
-A lexical analizer simplified c language
+A lexical analizer for simplified c language
